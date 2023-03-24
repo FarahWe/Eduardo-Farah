@@ -1,10 +1,10 @@
-### Olá, eu sou Eduardo Brandalise Farah
+# Olá, eu sou Eduardo Brandalise Farah
 
-# Sobre mim
+## Sobre mim
 
 Eu sou um desenvolvedor React Native com experiência em desenvolvimento de aplicativos para iOS e Android. Eu amo aprender novas tecnologias e criar soluções inovadoras para problemas complexos.
 
-# Habilidades
+## Habilidades
 
 - React Native
 - React
@@ -13,10 +13,10 @@ Eu sou um desenvolvedor React Native com experiência em desenvolvimento de apli
 - HTML/CSS
 - Git
 
-# Projetos
+## Projetos
 Aqui estão alguns dos meus projetos mais recentes:
 
-# Contato
+## Contato
 
 - [LinkedIn](https://www.linkedin.com/in/eduardo-farah-96a4a720b/)
 - [Email](eduardobfarah@gmail.com)
