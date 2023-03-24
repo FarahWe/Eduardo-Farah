@@ -1,6 +1,6 @@
 # Olá, eu sou Eduardo Brandalise Farah
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FaraWe&hide_progress=false)](https://github.com/FarahWe/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farawe&hide_progress=false)](https://github.com/FarahWe/github-readme-stats)
 
 ## Sobre mim
 
