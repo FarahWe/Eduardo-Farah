@@ -1,6 +1,6 @@
-# Olá, eu sou Eduardo Brandalise Farah
+# Hi, i am Eduardo Brandalise Farah
 
-## Tecnologias
+## Technology
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Farah-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -11,11 +11,11 @@
           
 </div>
   
-## Sobre mim
+## About Me
 
-Eu sou um desenvolvedor React Native com experiência em desenvolvimento de aplicativos para iOS e Android. Eu amo aprender novas tecnologias e criar soluções inovadoras para problemas complexos.
+I'm a React Native developer with iOS and Android app development experience. I love learning new technologies and creating innovative solutions to complex problems.
 
-## Habilidades
+## Skills
 
 - React Native
 - React
@@ -24,10 +24,15 @@ Eu sou um desenvolvedor React Native com experiência em desenvolvimento de apli
 - HTML/CSS
 - Git
 
-## Projetos
-Aqui estão alguns dos meus projetos mais recentes:
+## Projects
+Here are some of my latest projects that showcase my skills:
 
-## Contato
+ - [Todo List](https://github.com/FarahWe/to-do-list) - A beautiful and quick toDo app to quickly add, track and remove your daily things.
+ - [Fast Teams](https://github.com/FarahWe/igniteteams) - An app to add your group of football friends and track them all allowing to add in Team A and B and many groups you want.
+ - [Daily Diet](https://github.com/FarahWe/daily-diet) - An app that makes YOU keep on track of you diet, adding dishes and informing if is inside of your diet ot not.
+
+
+## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/eduardo-farah-96a4a720b/)
 - [Email](eduardobfarah@gmail.com)
