@@ -19,7 +19,6 @@ I'm a React Native developer with iOS and Android app development experience. I 
 
 - React Native
 - React
-- React Query
 - JavaScript
 - HTML/CSS
 - Git
