@@ -23,6 +23,8 @@ I'm a React Native developer with iOS and Android app development experience. I 
 - JavaScript
 - HTML/CSS
 - Git
+- Next
+- Node
 
 ## Projects
 Here are some of my latest projects that showcase my skills:
